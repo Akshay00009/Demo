@@ -7,6 +7,11 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		84443CFC1FB1F3D50038B9E2 /* videoplayViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84443CFB1FB1F3D50038B9E2 /* videoplayViewController.swift */; };
+		8469423B1FAC8F4900803C18 /* Despacito - DJMaza.Life - 192Kbps.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 84C368301FAB0F4C00B628F7 /* Despacito - DJMaza.Life - 192Kbps.mp3 */; };
+		8469423D1FAC91A800803C18 /* example.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 8469423C1FAC918600803C18 /* example.m4a */; };
+		8474A97A1FB986230007DB29 /* conatinerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8474A9791FB986230007DB29 /* conatinerViewController.swift */; };
+		8474A97C1FB9863E0007DB29 /* childViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8474A97B1FB9863E0007DB29 /* childViewController.swift */; };
 		84C368031FAB02B300B628F7 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C368021FAB02B300B628F7 /* AppDelegate.swift */; };
 		84C368051FAB02B300B628F7 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C368041FAB02B300B628F7 /* ViewController.swift */; };
 		84C368081FAB02B300B628F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C368061FAB02B300B628F7 /* Main.storyboard */; };
@@ -14,6 +19,8 @@
 		84C3680D1FAB02B300B628F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C3680B1FAB02B300B628F7 /* LaunchScreen.storyboard */; };
 		84C368181FAB02B300B628F7 /* speech_recognitionTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C368171FAB02B300B628F7 /* speech_recognitionTests.swift */; };
 		84C368231FAB02B300B628F7 /* speech_recognitionUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C368221FAB02B300B628F7 /* speech_recognitionUITests.swift */; };
+		84C368361FAB399100B628F7 /* MobileCoreServices.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84C368351FAB399100B628F7 /* MobileCoreServices.framework */; };
+		84C4CB541FB445260056F53E /* zommViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C4CB531FB445260056F53E /* zommViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +41,11 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		84443CFB1FB1F3D50038B9E2 /* videoplayViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = videoplayViewController.swift; sourceTree = "<group>"; };
+		846941FE1FAC2F0300803C18 /* SampleAudio_0.4mb.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = SampleAudio_0.4mb.mp3; sourceTree = "<group>"; };
+		8469423C1FAC918600803C18 /* example.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = example.m4a; sourceTree = "<group>"; };
+		8474A9791FB986230007DB29 /* conatinerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = conatinerViewController.swift; sourceTree = "<group>"; };
+		8474A97B1FB9863E0007DB29 /* childViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = childViewController.swift; sourceTree = "<group>"; };
 		84C367FF1FAB02B300B628F7 /* speech recognition.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "speech recognition.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C368021FAB02B300B628F7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		84C368041FAB02B300B628F7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +59,10 @@
 		84C3681E1FAB02B300B628F7 /* speech recognitionUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "speech recognitionUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		84C368221FAB02B300B628F7 /* speech_recognitionUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = speech_recognitionUITests.swift; sourceTree = "<group>"; };
 		84C368241FAB02B300B628F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		84C368301FAB0F4C00B628F7 /* Despacito - DJMaza.Life - 192Kbps.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "Despacito - DJMaza.Life - 192Kbps.mp3"; sourceTree = "<group>"; };
+		84C368321FAB353200B628F7 /* example.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = example.m4a; sourceTree = "<group>"; };
+		84C368351FAB399100B628F7 /* MobileCoreServices.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MobileCoreServices.framework; path = System/Library/Frameworks/MobileCoreServices.framework; sourceTree = SDKROOT; };
+		84C4CB531FB445260056F53E /* zommViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = zommViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +70,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				84C368361FAB399100B628F7 /* MobileCoreServices.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -81,6 +98,7 @@
 				84C368161FAB02B300B628F7 /* speech recognitionTests */,
 				84C368211FAB02B300B628F7 /* speech recognitionUITests */,
 				84C368001FAB02B300B628F7 /* Products */,
+				84C368341FAB399100B628F7 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,8 +115,16 @@
 		84C368011FAB02B300B628F7 /* speech recognition */ = {
 			isa = PBXGroup;
 			children = (
+				84C368301FAB0F4C00B628F7 /* Despacito - DJMaza.Life - 192Kbps.mp3 */,
+				846941FE1FAC2F0300803C18 /* SampleAudio_0.4mb.mp3 */,
+				8469423C1FAC918600803C18 /* example.m4a */,
+				84C368331FAB387500B628F7 /* New Group */,
 				84C368021FAB02B300B628F7 /* AppDelegate.swift */,
+				84C4CB531FB445260056F53E /* zommViewController.swift */,
 				84C368041FAB02B300B628F7 /* ViewController.swift */,
+				84443CFB1FB1F3D50038B9E2 /* videoplayViewController.swift */,
+				8474A9791FB986230007DB29 /* conatinerViewController.swift */,
+				8474A97B1FB9863E0007DB29 /* childViewController.swift */,
 				84C368061FAB02B300B628F7 /* Main.storyboard */,
 				84C368091FAB02B300B628F7 /* Assets.xcassets */,
 				84C3680B1FAB02B300B628F7 /* LaunchScreen.storyboard */,
@@ -123,6 +149,22 @@
 				84C368241FAB02B300B628F7 /* Info.plist */,
 			);
 			path = "speech recognitionUITests";
+			sourceTree = "<group>";
+		};
+		84C368331FAB387500B628F7 /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+				84C368321FAB353200B628F7 /* example.m4a */,
+			);
+			path = "New Group";
+			sourceTree = "<group>";
+		};
+		84C368341FAB399100B628F7 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				84C368351FAB399100B628F7 /* MobileCoreServices.framework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,6 +274,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8469423D1FAC91A800803C18 /* example.m4a in Resources */,
+				8469423B1FAC8F4900803C18 /* Despacito - DJMaza.Life - 192Kbps.mp3 in Resources */,
 				84C3680D1FAB02B300B628F7 /* LaunchScreen.storyboard in Resources */,
 				84C3680A1FAB02B300B628F7 /* Assets.xcassets in Resources */,
 				84C368081FAB02B300B628F7 /* Main.storyboard in Resources */,
@@ -259,8 +303,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8474A97A1FB986230007DB29 /* conatinerViewController.swift in Sources */,
+				8474A97C1FB9863E0007DB29 /* childViewController.swift in Sources */,
 				84C368051FAB02B300B628F7 /* ViewController.swift in Sources */,
+				84C4CB541FB445260056F53E /* zommViewController.swift in Sources */,
 				84C368031FAB02B300B628F7 /* AppDelegate.swift in Sources */,
+				84443CFC1FB1F3D50038B9E2 /* videoplayViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
