@@ -25,10 +25,16 @@ class ViewController: UIViewController,SFSpeechRecognizerDelegate,AVAudioPlayerD
         let tap = UITapGestureRecognizer(target: self, action: #selector(Tap))
         tap.numberOfTapsRequired = 1
         view1.addGestureRecognizer(tap)
+
      print("Akshay Avati")
         
         print("helloooooooooooo")
         print("new data")
+
+
+        
+        print("today")
+
 //        let path = Bundle.main.url(forResource: "Despacito - DJMaza.Life - 192Kbps", withExtension:"mp3")
 //        do
 //        {
